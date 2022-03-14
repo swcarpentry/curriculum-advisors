@@ -3,7 +3,7 @@ Thanks for contributing!
 Issues in swcarpentry/curriculum-advisors are intended as a place to discuss
 open questions about how to structure SWC lessons and workshops.
 
-Before you submit a new topic for discussion (open a new issue), please be sure
+As you submit a new topic for discussion (open a new issue), please be sure
 that you've done the following:
 
 - [ ] Confirm that you are submitting a topic within the purview of the CAC See the ([Curriculum Advisory Committee Consultation Rubric](https://docs.carpentries.org/topic_folders/lesson_development/cac-consult-rubric.html).)
