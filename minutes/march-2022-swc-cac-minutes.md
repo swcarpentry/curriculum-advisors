@@ -1,4 +1,5 @@
-2022-03-21 SWC-CAC Meeting
+### March 2022 Meeting of the Software Carpentry Curriculum Advisory Committee
+
 Date/Time: 2022-03-21 at 15:00 UTC (convert to your time-zone)
 Video meeting link: https://meet.google.com/udf-rggm-qxf
 
