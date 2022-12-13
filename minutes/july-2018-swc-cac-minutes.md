@@ -1,4 +1,4 @@
-### June 2018 Meeting of the Social Sciences Curriculum Advisors
+### July 2018 Meeting of the Software Carpentry Curriculum Advisory Committee
 
 There was one meeting held:
 - Monday, July 9, 2018 at 22:00:00
